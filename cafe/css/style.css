@@ -504,7 +504,7 @@ a[href^="tel:"] {
 .parallax1 {
   text-align: center;
   background-color: #FFF;
-  background-image: url(../images/car-cafe/bobabackground.jpeg);
+  background-image: url(../images/car-cafe/drink-food/bobabackground.jpeg);
   padding: 132px 0 127px;
 }
 .parallax2 {
@@ -592,6 +592,17 @@ header .nav {
   font-size: 60px;
   line-height: 64px;
   color: #ffffff;
+}
+
+@media (max-width: 767px) {
+  .brand_name {
+    font-size: 90px;
+    line-height: 35px;
+    display: block;
+    font-family: 'Yesteryear', cursive;
+    color: white;
+    padding-top: 1em;
+  }
 }
 /*=======================================================
                      CONTENT  Layout
