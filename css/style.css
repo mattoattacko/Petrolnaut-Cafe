@@ -44,6 +44,15 @@ h2 {
   padding-left: 70px !important;
   padding-right: 70px !important;
 }
+.white-box_menu {
+  background-color: white;
+  opacity: 0.8;
+  border-radius: 10px;
+  padding-top: 15px !important; 
+  padding-bottom: 15px !important;
+  padding-left: 28px !important;
+  padding-right: 28px !important;
+}
 .fix-radius {
   border-radius: 25px;
 }
@@ -504,7 +513,7 @@ a[href^="tel:"] {
 .parallax1 {
   text-align: center;
   background-color: #FFF;
-  background-image: url(../images/car-cafe/bobabackground.jpeg);
+  background-image: url(../images/car-cafe/drink-food/bobabackground.jpeg);
   padding: 132px 0 127px;
 }
 .parallax2 {
